@@ -1,5 +1,5 @@
 # Applied-Machine-Learning-algorithms
 Applied Machine learning algorithms using Python, pandas, numpy, scipy, matplotlib, sklearn 
 
-This repository contains the application of Applied Machine learning alogrithms like KNN, K-MEANS AND LOGISTIC REGRESSION. 
-I HAVE USED PYTHON PROGRAMMING LANGUAGE AND JUPYTER NOTEBOOK AS MY INTEGRATED DEVELOPMENT ENVIRONMENT (IDE).
+This repository contains the application of Applied Machine learning alogrithms like Knn, K-Means and LOGISTIC REGRESSION. 
+I have used PYTHON Programming Language and Jupyter Notebook as my Integrated Development Environment (IDE).
