@@ -1,4 +1,4 @@
-# Name: Denim Datta
+# Name: Rhituraj Bhalerao
 
 import math
 import random
